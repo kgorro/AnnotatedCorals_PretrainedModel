@@ -3,7 +3,7 @@ This project is under the Center of Integrated Coastal Resource Management of Ce
 This project is headed by:
 <br/> Ken Gorro
 
->br/> With the help of:
+<br/> With the help of:
 <br/> Anthony Ilano (Marine Biology Expert)
 <br/> Elmo Ranolo
 <br/> Apple Jane Gorro
