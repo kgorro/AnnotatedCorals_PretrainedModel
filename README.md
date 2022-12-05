@@ -2,7 +2,9 @@
 This project is under the Center of Integrated Coastal Resource Management of Cebu Technological University of the Philippines.
 This project is headed by:
 <br/> Ken Gorro
-<br/> Anthony Ilano
+
+>br/> With the help of:
+<br/> Anthony Ilano (Marine Biology Expert)
 <br/> Elmo Ranolo
 
 The following are the sample test image detection:
