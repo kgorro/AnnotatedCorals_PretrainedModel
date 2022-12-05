@@ -15,3 +15,5 @@ This project can be used for further research, please cite the paper below to ac
 
 [To be finalized]
 Gorro, K. D., Anthony, I., Ranolo, E. B., Gorro, A. M., Penida, H. (2023, March). An Evaluation of YOLO-Based detection of coral reef in images. In Press. IEEE.
+
+Please email to ken.gorro@ctu.edu.ph / anthony.ilano@ctu.edu.ph for more questions and inquiries.
