@@ -6,6 +6,8 @@ This project is headed by:
 >br/> With the help of:
 <br/> Anthony Ilano (Marine Biology Expert)
 <br/> Elmo Ranolo
+<br/> Apple Jane Gorro
+<br/> Cristine Sintos
 
 The following are the sample test image detection:
 
