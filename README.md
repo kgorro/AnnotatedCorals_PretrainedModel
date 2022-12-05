@@ -14,4 +14,4 @@ The following are the sample test image detection:
 This project can be used for further research, please cite the paper below to acknowledge the authors:
 
 [To be finalized]
-Gorro, K. D., Anthony, I., Ranolo, E. B., Gorro, A. M., Penida, H. (2023, March). An Evaluation of YOLO-Based detection of coral reef in images. In 2023 International Conference on Business Analytics for Technology and Security (ICBATS) In Press. IEEE.
+Gorro, K. D., Anthony, I., Ranolo, E. B., Gorro, A. M., Penida, H. (2023, March). An Evaluation of YOLO-Based detection of coral reef in images. In Press. IEEE.
