@@ -1,9 +1,9 @@
 # Corpora of Annotated Coral Images for Coral Detection with Pre-trained YOLOV3 model for coral detection
 This project is under the Center of Integrated Coastal Resource Management of Cebu Technological University of the Philippines.
 This project is headed by:
-Ken Gorro
-Anthony Ilano
-Elmo Ranolo
+<br/> Ken Gorro
+<br/> Anthony Ilano
+<br/> Elmo Ranolo
 
 The following are the sample test image detection:
 
